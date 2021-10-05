@@ -1,0 +1,24 @@
+
+body{
+    color: white;
+    font-family: fantasy;
+    
+}
+
+p{
+    width: 40%;
+}
+
+header{
+    height: 300px;
+    width: 200px;
+}
+html{
+background: url('back.png') no-repeat center fixed;  
+background-size: cover;
+}
+image{
+    image-orientation: right;
+    width: 300px;
+    height: 300px;
+}
